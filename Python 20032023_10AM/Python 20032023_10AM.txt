@@ -1,0 +1,27 @@
+Introduction to Python 
+
+In mindmap - Python Programming Fundamentals
+
+Data - Primary data collection - Survey,feedback,historical data
+       Secondary Data Collection - Client provides the data 
+
+Stages of Analytics - Descriptive,Diagnostic,Predictive,Prescriptive
+
+                      Doctor example 
+
+theory - Check Mindmaps - https://360digitmg.com/mindmap/python-programming
+
+
+import collections -> getdefaultdict
+from functools import reduce -> reduce function
+import sys -> getsizeof
+
+
+https://pypi.org - register 
+
+Success Criteria - Business 30%, Machine Learning atleast 95%, Economic 50$
+
+Objectives - max and min 
+Constraint - data availability
+
+Tame the Python - https://www.youtube.com/playlist?list=PLXqcFxzSKEfa9iOWtzVIhb1nKwwHbk0sj - > Bharani sir videos
